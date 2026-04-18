@@ -1,16 +1,21 @@
-## Hi there 👋
+## Ciao 👋
 
-<!--
-**aarondionisiotech/aarondionisiotech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sono Aaron, un Junior Developer in formazione
 
-Here are some ideas to get you started:
+Studente presso LabForWeb, con interesse per lo sviluppo Front-end e Back-end.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sto costruendo competenze pratiche in HTML, CSS, JavaScript, Angular e Java attraverso progetti formativi e studio continuo. 
+
+Persona affidabile, precisa e motivata, con forte interesse per la crescita professionale nel settore IT.
+
+Fun Facts : 
+
+  • Sono un SushiMan
+  • Non mi piacciono i carciofi
+  • Il mio anime preferito è Demon Slayer
+  • Hobbies : palestra, anime e costruire cose
+
+
+
+
+
