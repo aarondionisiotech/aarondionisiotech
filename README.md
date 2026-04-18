@@ -10,10 +10,10 @@ Persona affidabile, precisa e motivata, con forte interesse per la crescita prof
 
 Fun Facts : 
 
-  • Sono un SushiMan
-  • Non mi piacciono i carciofi
-  • Il mio anime preferito è Demon Slayer
-  • Hobbies : palestra, anime e costruire cose
+  • Sono un SushiMan                                                             
+  • Non mi piacciono i carciofi                                                  
+  • Il mio anime preferito è Demon Slayer                                        
+  • Hobbies : palestra, anime e costruire cose                                
 
 
 
